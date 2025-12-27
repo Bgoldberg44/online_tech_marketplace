@@ -3,7 +3,8 @@
 
 
 ## For this project I used SQL to create a relational database using SQL | From there I mapped out my design using an ERD (Visio) 
-The Entities I used were Customer, Order, OrderDetail, Product | I used SQL Queries to create, join, and fill each of the entities
+Note -- Attatched in this repository are my Entities, the files containing them were made using the export/dump function in SQL so they partially changed as a result
+## The Entities I used were Customer, Order, OrderDetail, Product | I used SQL Queries to create, join, and fill each of the entities
 
 # <img width="551" height="395" alt="Screenshot 2025-12-26 at 6 54 25 PM" src="https://github.com/user-attachments/assets/e34e759a-667d-4607-9965-af79f666486a" />
 
